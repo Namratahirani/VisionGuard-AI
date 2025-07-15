@@ -1,0 +1,8 @@
+{
+  "email_sender": "your_email@gmail.com",
+  "email_password": "your_app_password",
+  "email_receiver": "receiver_email@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "known_faces_dir": "known_faces"
+}
